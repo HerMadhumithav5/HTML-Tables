@@ -1,0 +1,28 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+td {
+  text-align: center;
+}
+h1,
+h3 {
+  background-color: rgb(79, 135, 191);
+}
+.highlight {
+  background-color: #96abc1;
+}
+#left_align {
+  text-align: left;
+}
+#blue_color {
+  background-color: #27bad0;
+}
+#yellow_color {
+  background-color: #f7e26b;
+}
+#collapse {
+  border-collapse: collapse;
+}
