@@ -1,0 +1,1 @@
+//This is a javascript file for inducing interactivity within table
